@@ -13,13 +13,13 @@
 # Analoguhr_TFT
 ### ESP32, TFT 2.8"
 
-<img src="pic/Analoguhr21.png" width="500"> 
+<img src="Pics/Analoguhr21.png" width="500"> 
 <br> <br>
 
 
 ### Analoguhr mit der Anzeige für Sonnenauf- und Sonnenuntergang
 
-<img src="pic/Analoguhr1.png" width="500"> 
+<img src="Pics/Analoguhr1.png" width="500"> 
 <br> <br>
 
 ---
