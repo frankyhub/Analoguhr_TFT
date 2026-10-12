@@ -11,7 +11,7 @@
 <img src="Pics/Analoguhr21.png" width="500"> 
 <br> <br>
 
-</div>
+
 
 
 ### Analoguhr mit der Anzeige für Sonnenauf- und Sonnenuntergang
